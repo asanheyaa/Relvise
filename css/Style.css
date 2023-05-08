@@ -1,3 +1,4 @@
+@charset "UTF-8";
 /*Обнуление*/
 * {
   padding: 0;
@@ -243,7 +244,7 @@ body {
 .main-block__title {
   font-weight: 800;
   font-size: 58px;
-  line-height: calc 137.9310344828%;
+  line-height: 1.37;
 }
 @media (max-width: 479px) {
   .main-block__title {
@@ -286,7 +287,7 @@ body {
   font-weight: 700;
   text-align: center;
   font-size: 14px;
-  line-height: 200%;
+  line-height: 1.37;
   letter-spacing: 0.2px;
   color: #ffffff;
   margin: 10px 0;
